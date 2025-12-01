@@ -190,7 +190,8 @@ To launch the interactive dashboard:
 
 python -m streamlit run app.py
 
-## 🏆 Results
+
+##  Results
 
 Our specialized tuning strategy yielded significant improvements over baseline LSTM models.
 
@@ -210,7 +211,7 @@ Our specialized tuning strategy yielded significant improvements over baseline L
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
 * **Manoranjan Gundimi** - *Model Architecture & Training*
 
